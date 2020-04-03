@@ -1,0 +1,24 @@
+{
+  "name": "labs3-master",
+  "version": "0.0.0",
+  "description": "la desc de prueba",
+  "main": "main.js",
+  "scripts": {
+    "start": "node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sain120/labs2.git"
+  },
+  "author": "Yo",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/sain120/labs2/issues"
+  },
+  "homepage": "https://github.com/sain120/labs2#readme",
+  "dependencies": {
+    "cool-ascii-faces": "^1.3.4",
+    "express": "^4.17.1"
+  }
+}
