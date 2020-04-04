@@ -1,0 +1,33 @@
+    1  cd /workspace/Labs3; clear
+    2  export LANG=en_US.UTF-8;export LANGUAGE=en_US.UTF-8;locale-gen;source ~/.profile; [ ! -f ~/.custom_env ] || source ~/.custom_env; clear;
+    3  cd /workspace/Labs3; clear
+    4  export LANG=en_US.UTF-8;export LANGUAGE=en_US.UTF-8;locale-gen;source ~/.profile; [ ! -f ~/.custom_env ] || source ~/.custom_env; clear;
+    5  cd /workspace/Labs3; clear
+    6  export LANG=en_US.UTF-8;export LANGUAGE=en_US.UTF-8;locale-gen;source ~/.profile; [ ! -f ~/.custom_env ] || source ~/.custom_env; clear;
+    7  cd /workspace/Labs3; clear
+    8  export LANG=en_US.UTF-8;export LANGUAGE=en_US.UTF-8;locale-gen;source ~/.profile; [ ! -f ~/.custom_env ] || source ~/.custom_env; clear;
+    9  cd /workspace/Labs3; clear
+   10  git checkout l05
+   11  git add *
+   12  git commit
+   13  git checkout l05
+   14  npm start
+   15  node install express --save
+   16  npm install express --save
+   17  history
+   18  history -> history.txt
+   19  git add .
+   20  git commit -m "medium version of l04" 
+   21  git push
+   22  cd /workspace/Labs3; clear
+   23  export LANG=en_US.UTF-8;export LANGUAGE=en_US.UTF-8;locale-gen;source ~/.profile; [ ! -f ~/.custom_env ] || source ~/.custom_env; clear;
+   24  cd /workspace/Labs3; clear
+   25  export LANG=en_US.UTF-8;export LANGUAGE=en_US.UTF-8;locale-gen;source ~/.profile; [ ! -f ~/.custom_env ] || source ~/.custom_env; clear;
+   26  cd /workspace/Labs3; clear
+   27  npm start
+   28  npm install express --save
+   29  npm start
+   30  histoy
+   31  history
+   32  history -> history2.txt
+   33  history > history2.txt
